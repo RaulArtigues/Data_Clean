@@ -2,6 +2,8 @@
 <b>Optimization of air operations management through the development of Machine Learning models for the prediction of delays in airlines</b>
 <br>
 
+Rating given by professors from the University of Navarra: 10/10.
+
 Es un estándar haber experimentado mínimo una vez en la vida un retraso en el vuelo que ha comprado para poder visitar la ciudad de sus sueños o simplemente para asistir a una reunión del trabajo.<br><br>
 Estos retrasos siempre provocan un malestar en los pasajeros. Es por eso que un Data Scientist del departamento Advanced Analytics de la compañía Iberia Iberica tiene el <b> objetivo de crear modelos de Machine Learning, concretamente Most frequent, Regresión Logística, KNN y Random Forest, para predecir la probabilidad de retrasos en los vuelos tanto de su propia compañía como de la competencia y analizar de una forma visual la relación que existe entre los retrasos y las compañías que están involucradas.</b><br>
 <br>
